@@ -1,0 +1,8 @@
+ragas 
+pydantic
+unstructured 
+unstructured[pdf] 
+boto3 
+langchain-aws 
+langchain-community
+nest_asyncio
