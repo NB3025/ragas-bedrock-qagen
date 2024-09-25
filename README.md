@@ -24,6 +24,7 @@
 
 2. 필요한 라이브러리를 설치합니다:
    ```
+   cd ragas-bedrock-qagen/
    pip install -r requirements.txt
    ```
 
